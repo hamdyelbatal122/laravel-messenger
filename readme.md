@@ -138,3 +138,4 @@ If you discover any security related issues, please email [Chris Gmyr](mailto:cm
 
 ### Special Thanks
 This package used [AndreasHeiberg/laravel-messenger](https://github.com/AndreasHeiberg/laravel-messenger) as a starting point
+
